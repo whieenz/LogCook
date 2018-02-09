@@ -59,7 +59,7 @@ dependencies {
                 .setLogName("test.log") //设置日志文件名
                 .isOpen(true)  //是否开启输出日志
                 .isSave(true)  //是否保存日志
-                .initialize(); //完成吃初始化Crash监听
+                .initialize(); //完成初始化Crash监听
     }
 ```
 在manifest.xml中的application标签下添加android:name=".MyApplication"属性，代码如下：
