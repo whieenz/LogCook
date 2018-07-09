@@ -1,7 +1,7 @@
 #  [![](https://jitpack.io/v/whieenz/LogCook.svg)](https://jitpack.io/#whieenz/LogCook) LogCook
 > 这是一款超超超超超级精简，实用的Android日志管理工具。
 
-LogCook是一款非常简洁实用的Android日记管理工具。LogCook的中文翻译是日志厨师，你可以把它看作是一个日志美食家。
+LogCook是一款非常简洁实用的Android日记管理工具。LogCook的中文翻译是日志厨师，你可以把它看作是一个日志美食家。  
 
 
 ## 功能介绍
